@@ -5,7 +5,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Quang-Huy+Tran++;AI+Engineer,;Computer+Vision,;Medical+Imaging+and+Application,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "./images/about_me.gif" width = 50px></picture> **About me**
 
 - I'm an experienced AI engineer with a strong background in applied AI. Over the past 4 years, I have worked on various projects in fields such as traffic, surveillance, and medical applications
 - Currently pursuing my Erasmus Mundus Joint Masters on Medical Imaging and Application
@@ -86,7 +86,7 @@
 <br>
 <br> -->
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Connect..!</b><img src="./images/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
