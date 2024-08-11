@@ -2,13 +2,13 @@
 <h1 align="center"><b>Hi , I'm Quang-Huy Tran </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Quang-Huy+Tran++;AI+Engineer,;Computer+Vision,;Medical+Imaging+and+Application,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Quang-Huy+Tran++;AI+Engineer,;Computer+Vision,;Data+Scientist;Medical+Imaging+and+Applications,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 ## <picture><img src = "./images/about_me.gif" width = 50px></picture> **About me**
 
 - I'm an experienced AI engineer with a strong background in applied AI. Over the past 4 years, I have worked on various projects in fields such as traffic, surveillance, and medical applications
-- Currently pursuing my Erasmus Mundus Joint Masters on Medical Imaging and Application
+- Currently pursuing my Erasmus Mundus Joint Masters on Medical Imaging and Applications
 - I’m currently open for an Intern or a new job opportunity, please take a look at my CV [here](https://drive.google.com/file/d/1jvrcpfbPiqtsYQaPLIBRU1rSzY_1HaSw/view?usp=sharing)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
