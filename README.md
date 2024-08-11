@@ -9,7 +9,7 @@
 
 - I'm an experienced AI engineer with a strong background in applied AI. Over the past 4 years, I have worked on various projects in fields such as traffic, surveillance, and medical applications
 - Currently pursuing my Erasmus Mundus Joint Masters on Medical Imaging and Applications
-- I’m currently open for an Intern or a new job opportunity, please take a look at my CV [here](https://drive.google.com/file/d/1jvrcpfbPiqtsYQaPLIBRU1rSzY_1HaSw/view?usp=sharing)
+- I’m currently open for an Intern or a new job opportunity, please take a look at my CV [here](https://drive.google.com/file/d/1ax9XMtiHUF9ya2zlHN85LB1ezj_SACuQ/view?usp=sharing)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
