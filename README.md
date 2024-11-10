@@ -28,7 +28,7 @@
 
     ![Pytorch](https://img.shields.io/badge/Pytorch%20-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
     ![OpenCV](https://img.shields.io/badge/OpenCV%20-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
-    ![TensorRT](https://img.shields.io/badge/TensorRT%20-%23FF8000.svg?style=for-the-badge&logo=nvidia&logoColor=white)
+    ![TensorRT](https://img.shields.io/badge/TensorRT%20-%23FF8000.svg?style=for-the-badge&logo=nvidia&logoColor=white&color=green)
     ![Tensorflow](https://img.shields.io/badge/Tensorflow%20-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
     ![Keras](https://img.shields.io/badge/Keras%20-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
     ![Scikit-learn](https://img.shields.io/badge/Scikit-learn%20-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
