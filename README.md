@@ -18,49 +18,41 @@
 
 <p align="center">
 
-- **Languages**:
-    
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![javascript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+  - **Language**:
 
-- **Frameworks and Libraries**:
+      ![Python](https://img.shields.io/badge/Python%20-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+      ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+      ![CUDA](https://img.shields.io/badge/CUDA%20-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white)
 
-    ![Pytorch](https://img.shields.io/badge/Pytorch%20-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-    ![OpenCV](https://img.shields.io/badge/OpenCV%20-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
-    ![TensorRT](https://img.shields.io/badge/TensorRT%20-%23FF8000.svg?style=for-the-badge&logo=nvidia&logoColor=white&color=green)
-    ![Tensorflow](https://img.shields.io/badge/Tensorflow%20-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-    ![Keras](https://img.shields.io/badge/Keras%20-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-    ![Scikit-learn](https://img.shields.io/badge/Scikit-learn%20-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-    ![Pandas](https://img.shields.io/badge/Pandas%20-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-    ![Numpy](https://img.shields.io/badge/Numpy%20-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-    ![Node.js](https://img.shields.io/badge/Node.js%20-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+  - **Frameworks and Libraries**:
+
+      ![Pytorch](https://img.shields.io/badge/Pytorch%20-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+      ![OpenCV](https://img.shields.io/badge/OpenCV%20-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
+      ![TensorRT](https://img.shields.io/badge/TensorRT%20-%23FF8000.svg?style=for-the-badge&logo=nvidia&logoColor=white)
+      ![Tensorflow](https://img.shields.io/badge/Tensorflow%20-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+      ![Keras](https://img.shields.io/badge/Keras%20-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+      ![Scikit-learn](https://img.shields.io/badge/Scikit-learn%20-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+      ![Pandas](https://img.shields.io/badge/Pandas%20-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+      ![Numpy](https://img.shields.io/badge/Numpy%20-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+      ![Node.js](https://img.shields.io/badge/Node.js%20-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+
+  - **SDKs**:
+
+      ![DeepStream](https://img.shields.io/badge/DeepStream%20-%230075A8.svg?style=for-the-badge&logo=nvidia&logoColor=white&color=green)
+      ![Jetson](https://img.shields.io/badge/Jetson%20-%230075A8.svg?style=for-the-badge&logo=nvidia&logoColor=white&color=green)
+      ![NVIDIA Performance Primitives](https://img.shields.io/badge/NVIDIA%20Performance%20Primitives%20-%230075A8.svg?style=for-the-badge&logo=nvidia&logoColor=white&color=green)
+      
+  - **Softwares and Tools**:
+
+      ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+      ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+      ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-- **SDKs**:
+  - **Extras**:
 
-    ![DeepStream](https://img.shields.io/badge/DeepStream%20-%230075A8.svg?style=for-the-badge&logo=nvidia&logoColor=white&color=green)
-    ![Jetson](https://img.shields.io/badge/Jetson%20-%230075A8.svg?style=for-the-badge&logo=nvidia&logoColor=white&color=green)
-    ![NVIDIA Performance Primitives](https://img.shields.io/badge/NVIDIA%20Performance%20Primitives%20-%230075A8.svg?style=for-the-badge&logo=nvidia&logoColor=white&color=green)
-    
-- **Softwares and Tools**:
-
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-- **Operating Systems**:
-
-    ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-    ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-    ![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-
-- **Extras**:
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-
+      ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
+      ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
 </p>
 
 <!-- -----
